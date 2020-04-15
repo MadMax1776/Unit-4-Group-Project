@@ -4,5 +4,6 @@ Quiz App
 
 Contributors:
 
-Clayton O'Neill
-Max Meacham
+- Clayton O'Neill
+- Max Meacham
+- Courtney Zavaleta
